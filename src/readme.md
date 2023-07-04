@@ -1,12 +1,12 @@
-"Lorem Ipsum es simplemente el texto de relleno de las 
-imprentas y archivos de texto. Lorem Ipsum ha sido el texto de
-relleno estándar de las industrias desde el año 1500, cuando
-un impresor (N. del T. persona que se dedica a la imprenta)
-desconocido usó una galería de textos y los mezcló de tal 
-manera que logró hacer un libro de textos especimen. No sólo
-sobrevivió 500 años, sino que tambien ingresó como texto de 
-relleno en documentos electrónicos, quedando esencialmente
-parecido al original. Fue popularizado en los 60s con la
-creación de las hojas "Letraset", las cuales contenian
-pasajes de Lorem Ipsum, y más recientemente con software"
-       
+"sed ut perspiciatis sede omnis iste natus error sit voluptatem accusantium doloremque 
+laudantium, totam rem aperiam, eaque ipsa 
+quae ab illo inventore veritatis et quasi 
+architecto beatae vitae dicta sset 
+explicabo. Nemo enim ipsam voluptatem quia 
+voluptas sit aspernatur aut odit aut fugit, 
+sed quia consequsetur magni dolores eos qui 
+ratione voluptatem sequi nesciset. Neque 
+porro quisquam est, qui dolorem ipsum quia 
+dolor sit amet, 
+consectetur, adipisci ve 
+    
